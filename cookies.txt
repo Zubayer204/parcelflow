@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.parcelflow.co.uk	TRUE	/	FALSE	1999999999	PHPSESSID	38f78ed60a179574dabf548de163ac85
-
